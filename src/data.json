@@ -1,0 +1,181 @@
+{
+    "hoodies": [
+      {
+        "id": 1,
+        "nombre": "Hoodie 1",
+        "imagen": "hoodie1.jpg",
+        "descripcion": "$70.000",
+        "enlace": "enlace1.html"
+      },
+      {
+        "id": 2,
+        "nombre": "Hoodie 2",
+        "imagen": "hoodie2.jpeg",
+        "descripcion": "$70.000",
+        "enlace": "enlace2.html"
+      },
+
+      {
+        "id": 3,
+        "nombre": "Hoodie 3",
+        "imagen": "hoodie3.jpg",
+        "descripcion": "$70.000",
+        "enlace": "enlace3.html"
+      },
+
+      {
+        "id": 4,
+        "nombre": "Hoodie 4",
+        "imagen": "hoodie4.jpg",
+        "descripcion": "$70.000",
+        "enlace": "enlace4.html"
+      }
+
+    ],
+    
+    "posillos":[
+      {
+        "id": 1,
+        "nombre": "posillo1",
+        "imagen": "posillo1.jpeg",
+        "descripcion": "$12.000",
+        "enlace": "enlace5.html"
+  
+      },
+  
+      {
+        "id": 2,
+        "nombre": "posillo2",
+        "imagen": "posillo2.jpeg",
+        "descripcion": "$12.000",
+        "enlace": "enlace5.html"
+  
+      },
+
+     
+  
+      {
+        "id": 3,
+        "nombre": "posillo3",
+        "imagen": "posillo3.jpeg",
+        "descripcion": "$12.000",
+        "enlace": "enlace5.html"
+  
+      },
+
+      {
+        "id": 4,
+        "nombre": "posillo4",
+        "imagen": "posillo4.jpg",
+        "descripcion": "$12.000",
+        "enlace": "enlace5.html"
+  
+      }
+  
+  
+     ],
+  
+     "zorras":[
+      {
+  
+      
+        "id": 1,
+        "nombre": "zorra1",
+        "imagen": "zorra1.jpeg",
+        "descripcion": "Descripción del gorra 1",
+        "enlace": "enlace5.html"
+  
+      },
+  
+      
+  
+      {
+  
+      
+        "id": 2,
+        "nombre": "zorra2",
+        "imagen": "zorra2.jpeg",
+        "descripcion": "Descripción del zorra 2",
+        "enlace": "enlace5.html"
+  
+      },
+  
+      {
+  
+      
+        "id": 3,
+        "nombre": "zorra3",
+        "imagen": "zorra3.jpeg",
+        "descripcion": "Descripción del zorra 3",
+        "enlace": "enlace5.html"
+  
+      },
+
+      
+      {
+  
+      
+        "id": 4,
+        "nombre": "zorra5",
+        "imagen": "zorra5.jpg",
+        "descripcion": "Descripción del zorra 5",
+        "enlace": "enlace5.html"
+  
+      }
+
+      
+  
+  ],
+  
+    "camisas": [
+      {
+        "id": 1,
+        "nombre": "Camisa 1",
+        "imagen": "camisa1.jpeg",
+        "descripcion": "$30.000",
+        "enlace": "enlace1.html"
+      },
+      {
+        "id": 2,
+        "nombre": "camisa 2",
+        "imagen": "camisa2.jpeg",
+        "descripcion": "$30.000",
+        "enlace": "enlace2.html"
+      },
+
+      {
+        "id": 3,
+        "nombre": "camisa 3",
+        "imagen": "camisa3.jpeg",
+        "descripcion": "$30.000",
+        "enlace": "enlace3.html"
+      },
+
+      {
+        "id": 4,
+        "nombre": "camisa 4",
+        "imagen": "camisa4.jpeg",
+        "descripcion": "$30.000",
+        "enlace": "enlace4.html"
+      },
+
+      {
+        "id": 5,
+        "nombre": "camisa 5",
+        "imagen": "camisa5.jpeg",
+        "descripcion": "$30.000",
+        "enlace": "enlace5.html"
+      }
+    ],
+
+    "icons":[
+      {
+        "id":1,
+        "imagen":"logo1.jpg"
+
+      }
+    ]
+
+
+   
+  }
