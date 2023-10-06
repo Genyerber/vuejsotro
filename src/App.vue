@@ -25,7 +25,19 @@
           </li>
           
           
-        </ul>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.facebook.com/profile.php?id=61551319760783">
+            <img width="30" height="30" src="@/assets/icons/logo2.png" alt="Facebook">
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://instagram.com/gedaxx.style?igshid=NTc4MTIwNjQ2YQ==">
+            <img width="30" height="30" src="@/assets/icons/logo3.png" alt="Instagram">
+          </a>
+        </li>
+        <!-- Agrega más íconos de redes sociales según sea necesario -->
+      </ul>
+       
         
       </div>
     </nav>
@@ -33,31 +45,7 @@
    
   </div>
 
-  <div>
-    <!-- Navbar de Bootstrap -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">
-        <img src="@/assets/icons/logo1.jpg" alt="Icono" width="190" height="70" class="d-inline-block align-top">
-      </a>
-      <!-- ... otros elementos de navegación ... -->
-
-      <!-- Iconos de redes sociales (locales) -->
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <img src="@/assets/icons/logo2.png" alt="Facebook">
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <img src="@/assets/icons/logo3.png" alt="Instagram">
-          </a>
-        </li>
-        <!-- Agrega más íconos de redes sociales según sea necesario -->
-      </ul>
-    </nav>
-    <!-- Contenido de tu página -->
-  </div>
+  
 
 <div id="app">
     
